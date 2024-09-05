@@ -1,2 +1,3 @@
 aula 2
-paralello
+paralello- o arquvio certo agora é o parallelo
+
